@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1><b>TODO LIST</b></h1>
-  <h2>Using webpack</h2>
+  <h2>Using React</h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
